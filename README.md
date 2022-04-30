@@ -4,7 +4,7 @@
 
 ## Setup
 
-- Install xampp server (Download XAMPP)[https://www.apachefriends.org/download.html]
+- Install xampp server [Download XAMPP](https://www.apachefriends.org/download.html)
 - copy content of `htdocs` directory to XAMPP htdocs directory.
 - Check below configuration in `php.ini` file
 
